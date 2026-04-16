@@ -4,7 +4,7 @@ import { ComingSoon } from "@/components/ComingSoon";
 export const Route = createFileRoute("/fees")({
   head: () => ({
     meta: [
-      { title: "Fee Payment — Green Valley International School" },
+      { title: "Fee Payment — Millennium World School" },
       { name: "description", content: "Secure online fee payment portal with instant receipts." },
     ],
   }),

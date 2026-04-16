@@ -4,7 +4,7 @@ import { ComingSoon } from "@/components/ComingSoon";
 export const Route = createFileRoute("/about")({
   head: () => ({
     meta: [
-      { title: "About Us — Green Valley International School" },
+      { title: "About Us — Millennium World School" },
       { name: "description", content: "Learn about our legacy, vision, and commitment to excellence in education." },
     ],
   }),

@@ -11,9 +11,9 @@ import heroImage from "@/assets/hero-school.jpg";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Green Valley International School — Empowering Minds, Shaping Futures" },
+      { title: "Millennium World School — Empowering Minds, Shaping Futures" },
       { name: "description", content: "A premier CBSE-affiliated school with integrated ERP, online fee payment, and digital academic management." },
-      { property: "og:title", content: "Green Valley International School" },
+      { property: "og:title", content: "Millennium World School" },
       { property: "og:description", content: "Empowering Minds, Shaping Futures since 1995." },
     ],
   }),
@@ -67,7 +67,7 @@ function HomePage() {
       {/* Hero Section */}
       <section className="relative overflow-hidden">
         <div className="absolute inset-0">
-          <img src={heroImage} alt="Green Valley School Campus" className="w-full h-full object-cover" />
+          <img src={heroImage} alt="Millennium World School Campus" className="w-full h-full object-cover" />
           <div className="absolute inset-0 bg-gradient-to-r from-primary/95 via-primary/80 to-primary/50" />
         </div>
         <div className="relative mx-auto max-w-7xl px-4 py-24 md:py-36">

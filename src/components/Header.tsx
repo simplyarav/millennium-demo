@@ -21,7 +21,7 @@ export function Header() {
       {/* Top bar */}
       <div className="bg-primary/90 border-b border-primary-foreground/10">
         <div className="mx-auto max-w-7xl px-4 py-1.5 flex items-center justify-between text-xs text-primary-foreground/70">
-          <span>📞 +91 98765 43210 &nbsp;|&nbsp; ✉️ info@greenvalleyschool.edu</span>
+          <span>📞 +91 98765 43210 &nbsp;|&nbsp; ✉️ info@millenniumworldschool.edu</span>
           <span className="hidden sm:inline">Empowering Minds, Shaping Futures</span>
         </div>
       </div>
@@ -33,7 +33,7 @@ export function Header() {
             <GraduationCap className="h-6 w-6 text-secondary-foreground" />
           </div>
           <div>
-            <span className="text-lg font-bold text-primary-foreground font-heading leading-tight block">Green Valley</span>
+            <span className="text-lg font-bold text-primary-foreground font-heading leading-tight block">Millennium World</span>
             <span className="text-[10px] text-primary-foreground/60 tracking-widest uppercase">International School</span>
           </div>
         </Link>

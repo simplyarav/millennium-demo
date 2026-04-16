@@ -25,8 +25,8 @@ export const Route = createRootRoute({
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Green Valley International School" },
-      { name: "description", content: "Empowering Minds, Shaping Futures — Green Valley International School" },
+      { title: "Millennium World School" },
+      { name: "description", content: "Empowering Minds, Shaping Futures — Millennium World School" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },

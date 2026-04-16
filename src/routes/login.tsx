@@ -6,7 +6,7 @@ import { GraduationCap, Eye, EyeOff, User, Lock, ArrowRight } from "lucide-react
 export const Route = createFileRoute("/login")({
   head: () => ({
     meta: [
-      { title: "Login Portal — Green Valley International School" },
+      { title: "Login Portal — Millennium World School" },
       { name: "description", content: "Access the student, teacher, or admin portal." },
     ],
   }),
@@ -128,7 +128,7 @@ function LoginPage() {
 
           <div className="px-8 pb-6 text-center">
             <p className="text-xs text-muted-foreground">
-              Having trouble? Contact IT support at <span className="text-secondary">support@greenvalleyschool.edu</span>
+              Having trouble? Contact IT support at <span className="text-secondary">support@millenniumworldschool.edu</span>
             </p>
           </div>
         </div>

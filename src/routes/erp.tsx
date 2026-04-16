@@ -4,7 +4,7 @@ import { ComingSoon } from "@/components/ComingSoon";
 export const Route = createFileRoute("/erp")({
   head: () => ({
     meta: [
-      { title: "ERP System — Green Valley International School" },
+      { title: "ERP System — Millennium World School" },
       { name: "description", content: "Integrated ERP for managing students, teachers, attendance, and academic records." },
     ],
   }),
