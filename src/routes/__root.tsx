@@ -26,7 +26,7 @@ export const Route = createRootRoute({
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       { title: "Millennium World School" },
-      { name: "description", content: "Empowering Minds, Shaping Futures — Millennium World School" },
+      { name: "description", content: "Experience. Succeed. Lead. — Millennium World School" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },

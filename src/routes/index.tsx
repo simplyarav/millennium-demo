@@ -11,10 +11,10 @@ import heroImage from "@/assets/hero-school.jpg";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Millennium World School — Empowering Minds, Shaping Futures" },
+      { title: "Millennium World School — Experience. Succeed. Lead." },
       { name: "description", content: "A premier CBSE-affiliated school with integrated ERP, online fee payment, and digital academic management." },
       { property: "og:title", content: "Millennium World School" },
-      { property: "og:description", content: "Empowering Minds, Shaping Futures since 1995." },
+      { property: "og:description", content: "Experience. Succeed. Lead. since 1995." },
     ],
   }),
   component: HomePage,

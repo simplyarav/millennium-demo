@@ -22,7 +22,7 @@ export function Header() {
       <div className="bg-primary/90 border-b border-primary-foreground/10">
         <div className="mx-auto max-w-7xl px-4 py-1.5 flex items-center justify-between text-xs text-primary-foreground/70">
           <span>📞 +91 98765 43210 &nbsp;|&nbsp; ✉️ info@millenniumworldschool.edu</span>
-          <span className="hidden sm:inline">Empowering Minds, Shaping Futures</span>
+          <span className="hidden sm:inline">Experience. Succeed. Lead.</span>
         </div>
       </div>
 
