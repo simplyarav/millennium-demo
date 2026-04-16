@@ -82,8 +82,8 @@ function HomePage() {
               <span className="text-sm font-medium text-secondary-foreground/90">Admissions Open 2025-26</span>
             </div>
             <h1 className="text-4xl md:text-6xl font-bold font-heading text-primary-foreground leading-tight mb-6">
-              Empowering Minds,<br />
-              <span className="text-secondary">Shaping Futures</span>
+              Experience. Succeed.<br />
+              <span className="text-secondary">Lead.</span>
             </h1>
             <p className="text-lg text-primary-foreground/70 mb-8 leading-relaxed max-w-xl">
               A premier institution committed to academic excellence, holistic development, and digital-first education with integrated ERP and online management.
