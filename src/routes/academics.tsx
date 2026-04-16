@@ -4,7 +4,7 @@ import { ComingSoon } from "@/components/ComingSoon";
 export const Route = createFileRoute("/academics")({
   head: () => ({
     meta: [
-      { title: "Academics — Green Valley International School" },
+      { title: "Academics — Millennium World School" },
       { name: "description", content: "Explore our comprehensive CBSE curriculum and academic programs." },
     ],
   }),
