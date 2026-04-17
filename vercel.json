@@ -1,8 +1,5 @@
 {
   "buildCommand": "vite build",
   "outputDirectory": "dist/client",
-  "framework": null,
-  "env": {
-    "NODE_ENV": "production"
-  }
+  "framework": null
 }
